@@ -1,1 +1,1 @@
-# Simple-Applicaiton
+# Simple-Application
